@@ -1,0 +1,12 @@
+{
+  "name": "claude-gtm",
+  "description": "Go-To-Market стратегия через структурированный диалог",
+  "version": "1.0.0",
+  "author": {
+    "name": "inem"
+  },
+  "homepage": "https://github.com/inem/claude-gtm",
+  "repository": "https://github.com/inem/claude-gtm",
+  "license": "MIT",
+  "keywords": ["gtm", "go-to-market", "strategy", "marketing", "content-plan"]
+}
