@@ -49,6 +49,7 @@ cp -r claude-gtm/skills/* ~/.claude/skills/
 5. **Retention** — compound value, механики возврата
 6. **Growth** — loops, viral механики
 7. **Launch** — план + метрики
+8. **Critique** — самокритика, слабые места, доработка
 
 ### Отдельные этапы
 
@@ -60,6 +61,7 @@ cp -r claude-gtm/skills/* ~/.claude/skills/
 /retention      — retention стратегия
 /growth         — growth loops
 /launch         — план запуска
+/critique       — самокритика и доработка
 ```
 
 ## Результаты
