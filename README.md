@@ -20,7 +20,8 @@ Claude Code плагин для разработки Go-To-Market стратег
 ## Установка
 
 ```
-/install-plugin github:inem/claude-gtm
+/plugin marketplace add inem/claude-gtm
+/plugin install claude-gtm@claude-gtm-marketplace
 ```
 
 ## Использование
@@ -28,7 +29,7 @@ Claude Code плагин для разработки Go-To-Market стратег
 ### Полный цикл
 
 ```
-/gtm
+/claude-gtm:gtm
 ```
 
 Проведёт через все этапы последовательно. Можно остановиться и продолжить позже — прогресс сохраняется в `docs/gtm/context.yaml`.
@@ -38,12 +39,12 @@ Claude Code плагин для разработки Go-To-Market стратег
 Если нужен только конкретный этап:
 
 ```
-/gtm:product      — анализ продукта
-/gtm:audience     — целевая аудитория
-/gtm:competitors  — анализ конкурентов
-/gtm:channels     — каналы продвижения
-/gtm:content      — контент-стратегия
-/gtm:tactics      — тактический план
+/claude-gtm:gtm-product      — анализ продукта
+/claude-gtm:gtm-audience     — целевая аудитория
+/claude-gtm:gtm-competitors  — анализ конкурентов
+/claude-gtm:gtm-channels     — каналы продвижения
+/claude-gtm:gtm-content      — контент-стратегия
+/claude-gtm:gtm-tactics      — тактический план
 ```
 
 ## Структура результатов

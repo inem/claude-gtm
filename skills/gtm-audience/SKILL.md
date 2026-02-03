@@ -1,6 +1,6 @@
 ---
-name: gtm:audience
-description: Этап 2 — определение целевой аудитории
+name: gtm-audience
+description: "Этап 2 — определение целевой аудитории"
 ---
 
 # Целевая аудитория

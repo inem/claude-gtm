@@ -1,6 +1,6 @@
 ---
-name: gtm:tactics
-description: Этап 6 — тактический план и календарь
+name: gtm-tactics
+description: "Этап 6 — тактический план и календарь"
 ---
 
 # Тактический план

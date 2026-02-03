@@ -1,6 +1,6 @@
 ---
-name: gtm:channels
-description: Этап 4 — выбор каналов продвижения
+name: gtm-channels
+description: "Этап 4 — выбор каналов продвижения"
 ---
 
 # Каналы продвижения

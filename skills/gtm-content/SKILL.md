@@ -1,6 +1,6 @@
 ---
-name: gtm:content
-description: Этап 5 — контент-стратегия
+name: gtm-content
+description: "Этап 5 — контент-стратегия"
 ---
 
 # Контент-стратегия

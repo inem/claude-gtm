@@ -1,6 +1,6 @@
 ---
-name: gtm:competitors
-description: Этап 3 — анализ конкурентов и позиционирование
+name: gtm-competitors
+description: "Этап 3 — анализ конкурентов и позиционирование"
 ---
 
 # Анализ конкурентов
