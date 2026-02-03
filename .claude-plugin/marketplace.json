@@ -1,0 +1,14 @@
+{
+  "name": "claude-gtm-marketplace",
+  "description": "Marketplace for claude-gtm plugin",
+  "owner": "inem",
+  "plugins": [
+    {
+      "name": "claude-gtm",
+      "description": "Go-To-Market стратегия через структурированный диалог",
+      "version": "1.0.0",
+      "source": "./",
+      "author": "inem"
+    }
+  ]
+}
